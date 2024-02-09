@@ -12,17 +12,17 @@ Also we can do different scan
 •	Intense scan, no ping.
 •	Quick scan,
 •	Slow comprehensive scan etc.
-![Screenshot](https://ibb.co/v49LsM9)
+![Screenshot] (https://ibb.co/v49LsM9)
 
 ## nmap topology
 
 An nmap topology is a visual diagram of the connections between devices on a network. It shows how devices are connected to each other and
 how information flows between them. However, it is important to know that nmap is generally only a host discovery and port scanning tool,
 not a complete network topology mapping tool.
-![Alt text]([image_URL](https://ibb.co/HKbPB9Q))
+![Screenshot] (https://ibb.co/jRHYVSn) 
 
 ## Host and Services 
 Host: To know port number, protocol, status, service, version
 service : In service we use it for host name, port number, protocol, status to know whether it is open or closed.
 How can we check aps from postman and how can we send data to server and delete and update data and view data
-![Alt text]([image_URL](https://ibb.co/jRHYVSn))
+![Screenshot] (https://ibb.co/jRHYVSn)
