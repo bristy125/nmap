@@ -24,5 +24,5 @@ not a complete network topology mapping tool.
 ## Host and Services 
 Host: To know port number, protocol, status, service, version
 service : In service we use it for host name, port number, protocol, status to know whether it is open or closed.
-How can we check aps from postman and how can we send data to server and delete and update data and view data
+
 ![Screenshot] (https://ibb.co/jRHYVSn)
