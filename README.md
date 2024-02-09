@@ -12,7 +12,7 @@ Also we can do different scan
 •	Intense scan, no ping.
 •	Quick scan,
 •	Slow comprehensive scan etc.
-![Alt text]([image_URL](https://ibb.co/v49LsM9))
+![Screenshot](https://ibb.co/v49LsM9)
 
 ## nmap topology
 
